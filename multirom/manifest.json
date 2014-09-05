@@ -1,0 +1,293 @@
+{
+	"status": "ok",
+	"date": "2014-09-05",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/multirom-20140902-v28-UNOFFICIAL-falcon.zip",
+						"version": "28",
+						"type": "multirom",
+						"size": 3748614,
+						"md5": "19fcaa86a33ad796b0dd50eb8316a1e3"
+					},
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/TWRP_multirom_falcon_20140905-01.img",
+						"version": "mrom20140905-01",
+						"type": "recovery",
+						"size": 10139648,
+						"md5": "1a158996db6dbae5d418f208e8260a3c"
+					},
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/multirom_uninstaller.zip",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1733405,
+						"md5": "a24731113d3142ad4e629aeba2b1052e"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_stock_4.4.4.zip",
+						"version": "stock-3.4.42-default",
+						"md5": "54cd2b5f1dd4c3b555894d2385e68b05",
+						"type": "kernel",
+						"size": 7702753
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_teammex_stock_4.4.4.zip",
+						"version": "stock-3.4.103-XPerience",
+						"md5": "32db4c5b3556628f4cbef40f79aa5830",
+						"type": "kernel",
+						"size": 7878796
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_cm11_4.4.4.zip",
+						"version": "cm11-3.4.42-default",
+						"md5": "a97a869b41f9cc18312f4074d5fe739f",
+						"type": "kernel",
+						"size": 5828918
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_razrqcom_cm11_4.4.4.zip",
+						"version": "cm11-3.4.102-razrqcom",
+						"md5": "54f25661593a5bf58b8054d07175028e",
+						"type": "kernel",
+						"size": 6025591
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_teammex_cm11_4.4.4.zip",
+						"version": "cm11-3.4.103-XPerience",
+						"md5": "20d299600c7186ce0a0fbd484abd93c8",
+						"type": "kernel",
+						"size": 8633522
+					}
+				],
+                        "name": "falcon_gpe",
+			"ubuntu_touch":
+				{
+					"req_multirom": "28",
+					"req_recovery": "mrom20140905"
+				}
+			},
+			{"files":
+				[
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/multirom-20140902-v28-UNOFFICIAL-falcon.zip",
+						"version": "28",
+						"type": "multirom",
+						"size": 3748614,
+						"md5": "19fcaa86a33ad796b0dd50eb8316a1e3"
+					},
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/TWRP_multirom_falcon_20140905-01.img",
+						"version": "mrom20140905-01",
+						"type": "recovery",
+						"size": 10139648,
+						"md5": "1a158996db6dbae5d418f208e8260a3c"
+					},
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/multirom_uninstaller.zip",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1733405,
+						"md5": "a24731113d3142ad4e629aeba2b1052e"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_stock_4.4.4.zip",
+						"version": "stock-3.4.42-default",
+						"md5": "54cd2b5f1dd4c3b555894d2385e68b05",
+						"type": "kernel",
+						"size": 7702753
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_teammex_stock_4.4.4.zip",
+						"version": "stock-3.4.103-XPerience",
+						"md5": "32db4c5b3556628f4cbef40f79aa5830",
+						"type": "kernel",
+						"size": 7878796
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_cm11_4.4.4.zip",
+						"version": "cm11-3.4.42-default",
+						"md5": "a97a869b41f9cc18312f4074d5fe739f",
+						"type": "kernel",
+						"size": 5828918
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_razrqcom_cm11_4.4.4.zip",
+						"version": "cm11-3.4.102-razrqcom",
+						"md5": "54f25661593a5bf58b8054d07175028e",
+						"type": "kernel",
+						"size": 6025591
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_teammex_cm11_4.4.4.zip",
+						"version": "cm11-3.4.103-XPerience",
+						"md5": "20d299600c7186ce0a0fbd484abd93c8",
+						"type": "kernel",
+						"size": 8633522
+					}
+				],
+                        "name": "falcon_umts",
+			"ubuntu_touch":
+				{
+					"req_multirom": "28",
+					"req_recovery": "mrom20140905"
+				}
+			},
+			{"files":
+				[
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/multirom-20140902-v28-UNOFFICIAL-falcon.zip",
+						"version": "28",
+						"type": "multirom",
+						"size": 3748614,
+						"md5": "19fcaa86a33ad796b0dd50eb8316a1e3"
+					},
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/TWRP_multirom_falcon_20140905-01.img",
+						"version": "mrom20140905-01",
+						"type": "recovery",
+						"size": 10139648,
+						"md5": "1a158996db6dbae5d418f208e8260a3c"
+					},
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/multirom_uninstaller.zip",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1733405,
+						"md5": "a24731113d3142ad4e629aeba2b1052e"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_stock_4.4.4.zip",
+						"version": "stock-3.4.42-default",
+						"md5": "54cd2b5f1dd4c3b555894d2385e68b05",
+						"type": "kernel",
+						"size": 7702753
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_teammex_stock_4.4.4.zip",
+						"version": "stock-3.4.103-XPerience",
+						"md5": "32db4c5b3556628f4cbef40f79aa5830",
+						"type": "kernel",
+						"size": 7878796
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_cm11_4.4.4.zip",
+						"version": "cm11-3.4.42-default",
+						"md5": "a97a869b41f9cc18312f4074d5fe739f",
+						"type": "kernel",
+						"size": 5828918
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_razrqcom_cm11_4.4.4.zip",
+						"version": "cm11-3.4.102-razrqcom",
+						"md5": "54f25661593a5bf58b8054d07175028e",
+						"type": "kernel",
+						"size": 6025591
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_teammex_cm11_4.4.4.zip",
+						"version": "cm11-3.4.103-XPerience",
+						"md5": "20d299600c7186ce0a0fbd484abd93c8",
+						"type": "kernel",
+						"size": 8633522
+					}
+				],
+                        "name": "falcon_cdma",
+			"ubuntu_touch":
+				{
+					"req_multirom": "28",
+					"req_recovery": "mrom20140905"
+				}
+			},
+			{"files":
+				[
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/multirom-20140902-v28-UNOFFICIAL-falcon.zip",
+						"version": "28",
+						"type": "multirom",
+						"size": 3748614,
+						"md5": "19fcaa86a33ad796b0dd50eb8316a1e3"
+					},
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/TWRP_multirom_falcon_20140905-01.img",
+						"version": "mrom20140905-01",
+						"type": "recovery",
+						"size": 10139648,
+						"md5": "1a158996db6dbae5d418f208e8260a3c"
+					},
+					{
+						"url": "https://github.com/montamer/tools/raw/master/multirom/multirom_uninstaller.zip",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1733405,
+						"md5": "a24731113d3142ad4e629aeba2b1052e"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_stock_4.4.4.zip",
+						"version": "stock-3.4.42-default",
+						"md5": "54cd2b5f1dd4c3b555894d2385e68b05",
+						"type": "kernel",
+						"size": 7702753
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_teammex_stock_4.4.4.zip",
+						"version": "stock-3.4.103-XPerience",
+						"md5": "32db4c5b3556628f4cbef40f79aa5830",
+						"type": "kernel",
+						"size": 7878796
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_cm11_4.4.4.zip",
+						"version": "cm11-3.4.42-default",
+						"md5": "a97a869b41f9cc18312f4074d5fe739f",
+						"type": "kernel",
+						"size": 5828918
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_razrqcom_cm11_4.4.4.zip",
+						"version": "cm11-3.4.102-razrqcom",
+						"md5": "54f25661593a5bf58b8054d07175028e",
+						"type": "kernel",
+						"size": 6025591
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://github.com/montamer/tools/raw/master/multirom/kernel_patch_teammex_cm11_4.4.4.zip",
+						"version": "cm11-3.4.103-XPerience",
+						"md5": "20d299600c7186ce0a0fbd484abd93c8",
+						"type": "kernel",
+						"size": 8633522
+					}
+				],
+                        "name": "falcon_umtsds",
+			"ubuntu_touch":
+				{
+					"req_multirom": "28",
+					"req_recovery": "mrom20140905"
+				}
+			}
+		]
+}
